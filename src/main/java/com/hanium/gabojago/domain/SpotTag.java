@@ -6,6 +6,7 @@ import javax.persistence.*;
 
 @Getter
 @Entity
+@NamedEntityGraph(name = "SpotTagWithSpot", attributeNodes = @NamedAttributeNode("spot"))
 public class SpotTag {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

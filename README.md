@@ -3,8 +3,9 @@
 <br/>
 
 ---
-
 소개
+
+시연 영상: https://youtu.be/rthedhQxOx0
 
 <br/>
 
